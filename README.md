@@ -3,7 +3,7 @@
 
 - 🔭 Curso Sistemas de Informação [no Inteli](https://www.inteli.edu.br/)
 
-- ⚡ Fun fact: **Gosto muito de esportes e sou faixa marrom de judô**
+- 🥋⚽ **Gosto muito de esportes e sou faixa marrom de judô**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

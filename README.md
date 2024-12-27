@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou o Guilherme</h1>
 <h3 align="center">Estudante e amante de tecnologia</h3>
 
-- 🔭 Curso Sistemas de Informação [no Inteli](https://www.inteli.edu.br/)
+- 🔭 Curso Sistemas de Informação no [Inteli](https://www.inteli.edu.br/)
 
 - 🥋⚽ **Gosto muito de esportes e sou faixa marrom de judô**
 

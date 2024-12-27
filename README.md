@@ -18,5 +18,7 @@
 <p align="left">
 <a href="https://instagram.com/guihassen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guihassen" height="30" width="40" /></a>
 </p>
+<a href="https://discord.gg/guihassen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="guihassen" height="30" width="40" /></a>
+</p>
 
 -->

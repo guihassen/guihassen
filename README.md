@@ -7,7 +7,7 @@
 
 - 👨‍💻💲 **Busco aprender mais sobre tecnologia e mercado financeiro**
 
-- 🌱🌱 **Estou atualmente aprendendo Python**
+- 🌱📕 **Estou atualmente aprendendo Python**
 
 
 <h3 align="left">Linguagens e Ferramentas:</h3>

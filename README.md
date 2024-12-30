@@ -11,7 +11,6 @@
 
 - 🫢😲 **Peculiaridade sobre mim:**
 
-![Uploading pinterestdownloader.com-1735575055.475257.gif…]()
 
 
 <h3 align="left">Linguagens e Ferramentas:</h3>

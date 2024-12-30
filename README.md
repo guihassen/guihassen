@@ -24,7 +24,6 @@
 <a href="https://discord.gg/438415825381228554" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="30" height="30" alt="discord logo"  />
  <a href="https://instagram.com/guihassen" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="instagram logo"  />
 <a href="mailto:guilherme.hassenpflug@sou.inteli.edu.br" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="30" alt="gmail logo"  />
-<a href="https://app.slack.com/client/T02DWH2MXQR/D083K4DCBAT" target="blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="30" height="30" alt="slack logo"  />
 </div>
 
 ###

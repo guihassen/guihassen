@@ -11,9 +11,9 @@
 
 - 🫢😲 **Peculiaridade sobre mim:**
 <p align="right">
-  <img src="https://i.pinimg.com/originals/29/1c/55/291c5593304891ff1607d696f9f3b7a6.gif">
+  <img src="![2GU](https://github.com/user-attachments/assets/77d61577-ea96-44a5-bab6-fdf7f8f42ada)">
 </p>
-
+![2GU](https://github.com/user-attachments/assets/77d61577-ea96-44a5-bab6-fdf7f8f42ada)
 <h3 align="left">Lingua!
 gens e Ferramentas:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>

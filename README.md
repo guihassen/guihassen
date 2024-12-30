@@ -3,7 +3,7 @@
 
 
 - 🔭 Curso Sistemas de Informação no [Inteli](https://www.inteli.edu.br/)
-     <img src="https://github.com/user-attachments/assets/b6dd040a-384c-448c-9a13-ac6a1888b288" alt="Descrição do GIF" width="400px" align="right">
+     <img src="https://github.com/user-attachments/assets/b6dd040a-384c-448c-9a13-ac6a1888b288" alt="Descrição do GIF" width="350px" align="right">
 - 🥋⚽ **Gosto muito de esportes e sou faixa marrom de judô**
    
 - 👨‍💻💲 **Busco aprender mais sobre tecnologia e mercado financeiro** 

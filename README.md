@@ -6,10 +6,10 @@
 - 🥋⚽ **Gosto muito de esportes e sou faixa marrom de judô**
 
 - 👨‍💻💲 **Busco aprender mais sobre tecnologia e mercado financeiro**
+
 <p align="right">
-  <img src="![pinterestdownloader com-1735575055 475257](https://github.com/user-attachments/assets/9123d4a3-a706-4994-9b53-cb254dc693da)
-" alt="GIF animado" width="100px">
-</p>
+  <img src="https://i.pinimg.com/originals/29/1c/55/291c5593304891ff1607d696f9f3b7a6.gif" width="200px" height="170px">
+<p/>
 
 - 🌱📕 **Estou atualmente aprendendo Python**
 

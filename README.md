@@ -4,20 +4,14 @@
 - 🔭 Curso Sistemas de Informação no [Inteli](https://www.inteli.edu.br/)
 
 - 🥋⚽ **Gosto muito de esportes e sou faixa marrom de judô**
+    <img src="https://github.com/user-attachments/assets/77d61577-ea96-44a5-bab6-fdf7f8f42ada" alt="Descrição do GIF" width="200px" align="right">
 
-- 👨‍💻💲 **Busco aprender mais sobre tecnologia e mercado financeiro**
-
+- 👨‍💻💲 **Busco aprender mais sobre tecnologia e mercado financeiro** 
 - 🌱📕 **Estou atualmente aprendendo Python**
 
 - 🫢😲 **Peculiaridade sobre mim:**
-<p align="right">
-  <img src="![github](https://github.com/user-attachments/assets/77d61577-ea96-44a5-bab6-fdf7f8f42ada)">
-</p>
-![pinterestdownloader com-1735575055 475257](https://github.com/user-attachments/assets/263bb9a9-ff4a-44fe-9142-534fefbe4c51)
 
-
-<h3 align="left">Lingua!
-gens e Ferramentas:</h3>
+<h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 

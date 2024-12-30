@@ -6,14 +6,18 @@
 - 🥋⚽ **Gosto muito de esportes e sou faixa marrom de judô**
 
 - 👨‍💻💲 **Busco aprender mais sobre tecnologia e mercado financeiro**
+<p align="right">
+  <img src="![pinterestdownloader com-1735575055 475257](https://github.com/user-attachments/assets/9123d4a3-a706-4994-9b53-cb254dc693da)
+" alt="GIF animado" width="100px">
+</p>
 
 - 🌱📕 **Estou atualmente aprendendo Python**
 
 - 🫢😲 **Peculiaridade sobre mim:**
 
-![pinterestdownloader com-1735575055 475257](https://github.com/user-attachments/assets/bea72d53-bc78-4971-823a-cfdc14b17956)
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
+<h3 align="left">Lingua!
+gens e Ferramentas:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 

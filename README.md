@@ -25,5 +25,15 @@
 <a href="mailto:guilherme.hassenpflug@sou.inteli.edu.br" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="30" alt="gmail logo"  />
 </div>
 
+
+<picture>
+    <source media=" (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guihassen/guihassen/output/github-contribution-grid-snake-dark.svg">
+    <source media=" (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guihassen/guihassen/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guihassen/guihassen/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+
+
+
 ###
 -->

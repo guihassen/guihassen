@@ -31,6 +31,13 @@ Quem me auxiliou nesse começo de jornada foi o [Andre Lobo](https://github.com/
 
 ---
 
+<div>
+     <img src="https://github-readme-stats.vercel.app/api?username=guihassen&theme=great-gatsby&show_icons=true"\>
+     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihassen&layout=donut&langs_count=16&theme=great-gatsby">
+</div>
+
+
+
 
 <picture>
     <source media=" (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guihassen/guihassen/output/github-contribution-grid-snake-dark.svg">

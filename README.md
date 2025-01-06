@@ -12,18 +12,24 @@
 
 - 🌱📕 **Estou atualmente aprendendo Python**
 
-- 🫢😲 **Peculiaridade sobre mim:**
+- 🫢😲 **Peculiaridade sobre mim: **
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
+## Linguagens e Ferramentas :
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-<h3 align="left">Entre em contato:</h3>
-<div align="left">
+
+## Entre em contato :
 <a href="https://discord.gg/438415825381228554" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="30" height="30" alt="discord logo"  />
  <a href="https://instagram.com/guihassen" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="instagram logo"  />
 <a href="mailto:guilherme.hassenpflug@sou.inteli.edu.br" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="30" alt="gmail logo"  />
 </div>
+
+
+## Meu Buddy :
+Quem me auxiliou nesse começo de jornada foi o [Andre Lobo](https://github.com/AndreLobo1) ! Muito Obrigado.
+
+---
 
 
 <picture>

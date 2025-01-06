@@ -6,13 +6,13 @@
 
 - 🔭 Curso Sistemas de Informação no [Inteli](https://www.inteli.edu.br/)
      <img src="https://github.com/user-attachments/assets/b6dd040a-384c-448c-9a13-ac6a1888b288" alt="Descrição do GIF" width="350px" align="right">
-- 🥋⚽ **Gosto muito de esportes e sou faixa marrom de judô**
+- 🥋⚽ **Gosto muito de esportes e video games**
    
 - 👨‍💻💲 **Busco aprender mais sobre tecnologia e mercado financeiro** 
 
 - 🌱📕 **Estou atualmente aprendendo Python**
 
-- 🫢😲 **Peculiaridade sobre mim: tenho descendência alemã, italiana e libanesa. Nunca visitei nenhum desses paises, mas espero visitar um dia.**
+- 🫢😲 **Peculiaridade sobre mim: sou faixa marrom de judo e pratico o esporte há 12 anos**
 
 ## Linguagens e Ferramentas :
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>

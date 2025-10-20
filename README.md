@@ -25,15 +25,6 @@
 </div>
 
 
-## Meu Buddy :
-Quem me auxiliou nesse começo de jornada foi o [Andre Lobo](https://github.com/AndreLobo1) ! Muito Obrigado.
-
----
-
-<div>
-     <img src="https://github-readme-stats.vercel.app/api?username=guihassen&theme=great-gatsby&show_icons=true"\>
-     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihassen&layout=donut&langs_count=16&theme=great-gatsby">
-</div>
 
 
 
